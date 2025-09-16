@@ -44,7 +44,9 @@ npm run build
 
 ## Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+🌐 **Live Portfolio**: [https://portfolio-woad-omega-86.vercel.app/](https://portfolio-woad-omega-86.vercel.app/)
+
+For local development, open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
 ---
 
