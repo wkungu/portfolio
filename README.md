@@ -49,4 +49,4 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 ---
 
 **William N. Kungu** - Senior Software Engineer  
-Email: wkungu@gmail.com | Phone: +254 713 015 501
+Email: ****@gmail.com | Phone: +254 713 XXX XXX
